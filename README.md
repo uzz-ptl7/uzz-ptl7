@@ -1,6 +1,6 @@
 ![Web-Development](https://github.com/user-attachments/assets/c5caff2d-62b6-42cc-922b-219e8b3c94e1)
 # 💫 About Me:
-👋 Hi, I’m Uzair Patel, Also known as @uzz-ptl7<br>👀 I’m interested in ... Software Development<br>🌱 I’m currently learning ... Web Development<br>💞️ I’m looking to collaborate on ... Nothing at the Moment<br>📫 How to reach me ... uzair07patel@gmail.com<br>😄 Pronouns: ... he/him<br>⚡ Fun fact: ... I Love Planes✈️
+👋 Hi, I’m Uzair Patel, Also known as @uzz-ptl7<br>👀 I’m interested in ... Software Development<br>🌱 I’m currently learning ... Web Development<br>💞️ I’m looking to collaborate on ... Nothing at the Moment<br>📫 How to reach me ... uzairpatel7117@gmail.com<br>😄 Pronouns: ... he/him<br>⚡ Fun fact: ... I Love Planes✈️
 
 
 ## 🌐 Socials:
