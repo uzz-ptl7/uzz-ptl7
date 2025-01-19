@@ -1,4 +1,4 @@
-<img src="./Uzair-name.png" alt="Name" height="500" width="100%">
+<img src="./Uzair-Name.png" alt="Name" height="500" width="100%">
 
 # 💫 About Me:
 👋 Hello, I’m Uzair Patel<br>👀 I’m interested in ... crafting innovative solutions through technology <br>🌱 I’m currently learning ... Web Development<br>💞️ I’m looking to collaborate on ... anything with frontend development<br>📫 How to reach me ... uzairpatel7117@gmail.com<br>😄 Pronouns: ... he/him<br>⚡ Fun fact: ... I Love Planes✈️
